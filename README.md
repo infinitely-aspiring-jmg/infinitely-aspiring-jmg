@@ -1,4 +1,14 @@
-## Hi there 👋
+<!-- markdownlint-disable MD033 MD041 -->
+
+<h1 align="center">Hi there! I'm John. 👋🏾</h1>
+
+<h3 align="center">See <a href="https://github.com/johnmgrant">@johnmgrant</a> for my professional (Student & Corporate) profile.</h3>
+
+<p>
+  <span>
+    I'm a passionate <strong>Computer Engineer</strong> currently working on building hardware and software pipelines for <strong>small businesses</strong>.
+  </span>
+</p>
 
 <!--
 **infinitely-aspiring-jmg/infinitely-aspiring-jmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +25,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=infinitely-aspiring-jmg)](https://git.io/streak-stats)
+<ul>
+    <li>
+        <p>🔭 I’m currently working on and for my business <a href="https://github.com/mgd-infrastructure">@mgd-infrastructure</a> LLC.</p>
+    </li>
+    <li>
+        <p>
+            🌱 I’m currently working on projects based on WordPress VIP, React.js, GCP and Expo (React Native, Typescript, Swift & Kotlin), to name a few.
+        </p>
+    </li>
+    <li>
+        <p>
+          🤔 I’m seeking guidance in agentic automation, hardware optimization practices for virtualization, networking insights and much more. My thirst for knowledge knows no bounds.
+        </p>
+    </li>
+    <li>
+        <p>💬 Ask me about <strong>Typescript, React.js, Expo, Vite and my prompt engineering pipeline.</strong></span>
+    </li>
+    <li>
+        <p>😄 Pronouns: He / Him / They / Them</span>
+    </li>
+</ul>
+
+<p align="center">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=infinitely-aspiring-jmg" alt="view counter" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=infinitely-aspiring-jmg" alt="GitHub Streak Stats" />
+    </a>
+</p>
