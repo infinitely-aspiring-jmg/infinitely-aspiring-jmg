@@ -40,16 +40,16 @@ Here are some ideas to get you started:
         </p>
     </li>
     <li>
-        <p>💬 Ask me about <strong>Typescript, React.js, Expo, Vite and my prompt engineering pipeline.</strong></span>
+        <p>💬 Ask me about <strong>Typescript, React.js, GCP, Expo (React Native, Typescript, Swift & Kotlin), Vite and Prompt Engineering.</strong></p>
     </li>
     <li>
-        <p>😄 Pronouns: He / Him / They / Them</span>
+        <p>😄 Pronouns: He / Him / They / Them</p>
     </li>
 </ul>
 
 <p align="center">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=infinitely-aspiring-jmg" alt="view counter" />
+        <img src="https://komarev.com/ghpvc/?username=infinitely-aspiring-jmg" alt="Page View Counter" />
     </a>
 </p>
 
