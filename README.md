@@ -52,9 +52,3 @@ Here are some ideas to get you started:
         <img src="https://komarev.com/ghpvc/?username=infinitely-aspiring-jmg" alt="Page View Counter" />
     </a>
 </p>
-
-<p align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=infinitely-aspiring-jmg" alt="GitHub Streak Stats" />
-    </a>
-</p>
